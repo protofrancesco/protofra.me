@@ -1,4 +1,4 @@
-baseURL = "https://protofra.me"
+baseURL = "https://protofra.me/"
 languageCode = "IT-IT"
 title = "Protofra.me - Il sito di Francesco Proto"
 theme = "uilite"
