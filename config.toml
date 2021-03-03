@@ -1,4 +1,7 @@
 baseURL = "https://protofra.me"
-languageCode = "en-us"
-title = "Protofra.me - Sito di Francesco Proto"
+languageCode = "IT-IT"
+title = "Protofra.me - Il sito di Francesco Proto"
 theme = "uilite"
+paginate = 10
+enableRobotsTXT = true
+canonifyURLs = true 
