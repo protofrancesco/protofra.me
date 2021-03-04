@@ -1,7 +1,7 @@
 ---
 title: "Freewrite"
 date: 2019-02-02T15:52:02+01:00
-draft: false
+draft: true
 featured_image: "freewrite.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Honor Band 5"
 date: 2020-01-23T19:33:49+01:00
-draft: false
+draft: true
 featured_image: "honor-band.JPG"
 ---
 

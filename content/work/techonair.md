@@ -1,7 +1,7 @@
 ---
 title: "tech on air"
 date: 2021-01-04T12:16:13+01:00
-draft: true
+draft: false
 featured_image: "IMG_7059.JPG"
 ---
 
