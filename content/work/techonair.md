@@ -1,13 +1,13 @@
 ---
 title: "tech on air"
-date: 2021-01-04T12:16:13+01:00
+date: 2021-01-01T12:16:13+01:00
 draft: false
 featured_image: "IMG_7059.JPG"
 ---
 
 Grazie ad una serie di collaborazioni con siti web di settore, nel tempo, ho potuto realizzare recensioni di prodotti tecnologici di vario genere. 
 
-La collaborazione più lunga è sicuramente quella con **[Tech on Air](https://www.techonair.it)** per cui ho recensito: 
+La collaborazione più lunga è stata sicuramente quella con **[Tech on Air](https://www.techonair.it)** per cui ho recensito: 
 
 > - **[Freewrite Astrohaus](https://www.techonair.it/recensione-freewrite-astrohaus/)** - una tastiera meccanica con schermo e-ink pensata appositamente per gli scrittori, con un approccio _distraction free_, perfetto per concentrarsi sulla scrittura. 
 > - **[Pocophone F1](https://www.techonair.it/recensione-pocophone-f1/)** - uno smartphone che puntava ad essere il best _money for value._

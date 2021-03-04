@@ -1,6 +1,6 @@
 ---
 title: "Spinnit"
-date: 2021-03-04T17:10:48+01:00
+date: 2021-03-01T17:10:48+01:00
 draft: false
 featured_image: "logospinnIT.jpg"
 ---
