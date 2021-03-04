@@ -1,7 +1,7 @@
 ---
 title: "Spinnit"
 date: 2020-02-01T20:12:55+01:00
-draft: false
+draft: true
 featured_image: "spinnit-intro.JPG"
 ---
 

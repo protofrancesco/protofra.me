@@ -1,7 +1,7 @@
 ---
 title: "Spinnit"
 date: 2021-03-04T17:10:48+01:00
-draft: true
+draft: false
 featured_image: "logospinnIT.jpg"
 ---
 SpinnIt nasce nel gennaio del 2020 da un'idea mia e di [@franznardi.](https://spinnit.it) L'obiettivo, fin dall'inzio, era quello di **parlare di musica**  e di farlo **a modo nostro**. In pratica, ad un certo punto, ci siamo detti: _"oh, ma perché invece di scambiarci i dischi fra di noi, non ci registriamo e vediamo se qualcuno ha voglia di ascoltarci?"_ 

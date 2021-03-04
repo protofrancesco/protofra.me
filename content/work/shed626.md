@@ -13,7 +13,7 @@ A partire dalla **produzione musicale**, fino all'**ufficio stampa**, passando p
 
 Un posto, insomma, in cui l'artista è **davvero al centro**. 
 
-Io, in particolare mi occupo di [Editoria.](https://shed626.com/2021/02/08/editoria-musicale-shed626/)
+Io, in particolare, mi occupo di [Editoria.](https://shed626.com/2021/02/08/editoria-musicale-shed626/)
 
 Per saperne di più vi invito a visitare il **[sito](https://shed626.com)** e il nostro **[Instagram](https://www.instagram.com/shed626musichub/)**. Se poi avete anche roba da farmi sentire, basta una [email.](https://shed626.com/contatti/)
 
