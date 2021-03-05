@@ -4,4 +4,4 @@ title = "Protofra.me - Il sito di Francesco Proto"
 theme = "uilite"
 paginate = 10
 enableRobotsTXT = true
-canonifyURLs = true 
+canonifyURLs = true
