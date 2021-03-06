@@ -1,16 +1,18 @@
 baseURL = "https://protofra.me/"
-languageCode = "en-en"
+languageCode = "it-it"
 title = "Protofra.me - Il sito di Francesco Proto"
 theme = "hugo-theme-codex"
 paginate = 10
 enableRobotsTXT = true
 canonifyURLs = true
 googleanalytics = "UA-134417952-4"
+copyright = "© Francesco Proto {year}"
 [params]
   facebook = "https://www.instagram.com/protofra/"
   github = "https://github.com/jakewies/hugo-theme-codex"
   instagram = "https://www.instagram.com/protofra/"
   youtube = "https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA"
+  showPageTitleInTOC = true
 
 [params.colors]
   fancy = "#ffbb1f"
