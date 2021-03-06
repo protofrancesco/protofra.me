@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Protofra.me - Il sito di Francesco Proto</title>
+    <title>tech on Protofra.me - Il sito di Francesco Proto</title>
     <link>https://protofra.me/tags/tech/</link>
-    <description>Recent content in Tech on Protofra.me - Il sito di Francesco Proto</description>
+    <description>Recent content in tech on Protofra.me - Il sito di Francesco Proto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>IT-IT</language>
-    <lastBuildDate>Wed, 11 Sep 2019 15:37:48 +0200</lastBuildDate><atom:link href="https://protofra.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 23:47:33 +0100</lastBuildDate><atom:link href="https://protofra.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple mostra i muscoli con Apple Tv Plus</title>
-      <link>https://protofra.me/blog/apple-tv-plus/</link>
-      <pubDate>Wed, 11 Sep 2019 15:37:48 +0200</pubDate>
+      <title>Ho fatto un nuovo sito perché non avevo niente da fare</title>
+      <link>https://protofra.me/blog/note-di-presentazione/</link>
+      <pubDate>Fri, 05 Mar 2021 23:47:33 +0100</pubDate>
       
-      <guid>https://protofra.me/blog/apple-tv-plus/</guid>
-      <description>Ieri si è svolto il classico evento Apple di settembre. Sono stati presentati i nuovi iPhone - ne avevo parlato qui -, il nuovo iPad e il nuovo Apple Watch. Tutto come da programma e infatti non è di questo che voglio parlare.
-Pochi minuti dopo l’inizio dell’evento, infatti, il buon Tim Cook con la sua combriccola ha svelato il prezzo di lancio di Apple TV Plus: un Netflix made in Apple, per intenderci.</description>
-    </item>
-    
-    <item>
-      <title>Nel passato dell&#39;internet</title>
-      <link>https://protofra.me/blog/come-era-internet/</link>
-      <pubDate>Wed, 13 Mar 2019 20:35:14 +0100</pubDate>
-      
-      <guid>https://protofra.me/blog/come-era-internet/</guid>
-      <description>Indietro nel tempo Ieri, mentre cercavo invano di studiare, ho finalmente risposto ad una delle tante domande inutili che ogni tanto mi pongo. Che nella mia testa fa più o meno così: ma questo sito, com&amp;rsquo;era prima? tipo, Amazon, adesso è così, ma prima?
-Pensavo di essere l&amp;rsquo;unico scemo a chiedersi queste cose. E invece, eh, come al solito internet regala sorprese.
-Infatti, non solo non sono l&amp;rsquo;unico ad essersi fatto questa domanda, ma c&amp;rsquo;è anche della gente che ha lavorato ad una risposta.</description>
+      <guid>https://protofra.me/blog/note-di-presentazione/</guid>
+      <description>Qualche giorno fa giravo per internet e ho avuto una specie di illuminazione: perché non comprare un dominio col mio nome?
+Da lì è iniziata una ricerca che, a dire la verità, è durata molto poco: anche perché chi dovrebbe comprare un dominio a nome mio, se non io? Una ricerca, dicevo, che mi ha portato a protofra.me
+Mi è sembrato bellissimo e non ho potuto non prenderlo. Poi costava tipo 80 cents.</description>
     </item>
     
   </channel>
