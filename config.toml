@@ -1,5 +1,5 @@
 baseURL = "https://protofra.me/"
-languageCode = "IT-IT"
+languageCode = "en-en"
 title = "Protofra.me - Il sito di Francesco Proto"
 theme = "hugo-theme-codex"
 paginate = 10
