@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pillole on Protofra.me - Il sito di Francesco Proto</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Pillole on Protofra.me - Il sito di Francesco Proto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>IT-IT</language>
-    <lastBuildDate>Mon, 14 Oct 2019 21:49:48 +0200</lastBuildDate>
-    
-	<atom:link href="https://protofra.me/categories/pillole/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 14 Oct 2019 21:49:48 +0200</lastBuildDate><atom:link href="https://protofra.me/categories/pillole/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teletrasporto</title>
       <link>https://protofra.me/blog/teletrasporto/</link>

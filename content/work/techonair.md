@@ -1,8 +1,21 @@
 ---
-title: "tech on air"
-date: 2021-01-01T12:16:13+01:00
+title: "Tech On Air"
+# The date the post was created
+date: 2021-03-05T21:54:51+01:00
+# The post filename
+slug: "tech-on-air"
+# Post description used for seo
+description: "Techonair recensioni e lavori che ho svolto"
+# Post keywords used for seo
+keywords: [tech, smartphone, techonair, recensioni, recensioni smartphone]
+# If true, the blog post will not be included in static build
 draft: false
-featured_image: "IMG_7059.JPG"
+# Categorize your post with tags
+tags: [work]
+# Uses math typesetting
+math: false
+# Includes a table of contents on screens >1024px
+toc: false
 ---
 
 Grazie ad una serie di collaborazioni con siti web di settore, nel tempo, ho potuto realizzare recensioni di prodotti tecnologici di vario genere. 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motori on Protofra.me - Il sito di Francesco Proto</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Motori on Protofra.me - Il sito di Francesco Proto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>IT-IT</language>
-    <lastBuildDate>Wed, 12 Feb 2020 16:57:51 +0100</lastBuildDate>
-    
-	<atom:link href="https://protofra.me/categories/motori/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 12 Feb 2020 16:57:51 +0100</lastBuildDate><atom:link href="https://protofra.me/categories/motori/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SF 1000</title>
       <link>https://protofra.me/blog/sf-1000/</link>
@@ -27,8 +23,7 @@ Uno dei primi articoli condivisi parlava dell’annuncio della SF90. La monopost
       <pubDate>Wed, 04 Dec 2019 13:07:53 +0100</pubDate>
       
       <guid>https://protofra.me/blog/f1-2019-mondiale-in-gifs/</guid>
-      <description>Nei giorni scorsi ho provato a dare i voti ai team di Formula 1 per il Campionato 2019. Trovate il post qui.
-Ecco, avevo intenzione di fare lo stesso con i piloti, però, alla fine ho deciso di rendere la cosa un pochino più divertente e diversa: è pieno di gente ben più autorevole di me che dà voti a destra e a sinistra.
+      <description>Nei giorni scorsi ho provato a dare i voti ai team di Formula 1 per il Campionato 2019. Trovate il post qui. Ecco, avevo intenzione di fare lo stesso con i piloti, però, alla fine ho deciso di rendere la cosa un pochino più divertente e diversa: è pieno di gente ben più autorevole di me che dà voti a destra e a sinistra.
 Ho pensato, quindi, di appioppare ad ogni pilota una gif o qualcosa di simile che potesse definire e valutare la sua annata.</description>
     </item>
     
@@ -93,7 +88,7 @@ Grazie, Charles. Davvero!
       <pubDate>Wed, 04 Sep 2019 11:18:55 +0200</pubDate>
       
       <guid>https://protofra.me/blog/stats-f1-ep-1/</guid>
-      <description>La vittoria di Charles Leclerc, oltre che dare una gioia e un po’ di respiro a tutti i ferraristi - me compreso - ha sbloccato una serie di record davvero interessanti. E visto che la F1 è fatta anche di questo, ecco i numeri e le curiosità dietro i risultati di Charles in Belgio.
+      <description>La vittoria di Charles Leclerc,oltre che dare una gioia e un po’ di respiro a tutti i ferraristi - me compreso - ha sbloccato una serie di record davvero interessanti. E visto che la F1 è fatta anche di questo, ecco i numeri e le curiosità dietro i risultati di Charles in Belgio.
 I record di Charles Charles ha ottenuto la sua prima vittoria all’età di 21 anni, 10 mesi e 16 giorni.</description>
     </item>
     
@@ -103,8 +98,7 @@ I record di Charles Charles ha ottenuto la sua prima vittoria all’età di 21 a
       <pubDate>Mon, 02 Sep 2019 10:44:13 +0200</pubDate>
       
       <guid>https://protofra.me/blog/gp-belgio/</guid>
-      <description>Alla fine è arrivata la prima vittoria di Leclerc in F1 e la prima vittoria Ferrari quest’anno. Un’attesa lunga, che si è conclusa in una giornata dalle emozioni contrastanti dopo quanto accaduto sabato.
-Una giornata in cui, però, la cosa giusta da fare era correre, e la bellissima vittoria di Leclerc, dedicata proprio ad Anthoine, ne è la prova.
+      <description>Alla fine è arrivata la prima vittoria di Leclerc in F1 e la prima vittoria Ferrari quest’anno. Un’attesa lunga, che si è conclusa in una giornata dalle emozioni contrastanti dopo quanto accaduto sabato.Una giornata in cui, però, la cosa giusta da fare era correre, e la bellissima vittoria di Leclerc, dedicata proprio ad Anthoine, ne è la prova.
 10 Leclerc
 Una gara bellissima, condotta in maniera decisa. Una vittoria inseguita tutta la vita e che oggi, proprio oggi, non voleva perdere in nessun modo.</description>
     </item>
@@ -124,7 +118,7 @@ Una gara bellissima, condotta in maniera decisa. Una vittoria inseguita tutta la
       <pubDate>Sun, 28 Jul 2019 21:58:19 +0200</pubDate>
       
       <guid>https://protofra.me/blog/gp-germania-pagelle/</guid>
-      <description>Stamattina ho fatto un esperimento. Un po’ per scaramanzia, lo ammetto, ho provato a immaginare e pronosticare il risultato del GP. Per fortuna, devo dire, è andato tutto al contrario rispetto a quanto avevo pre detto. Ahimè la Ferrari non ha vinto, e rosico di brutto, però è stata una gara bella che mi ha regalato emozioni e anche qualche sorriso.
+      <description>Stamattinaho fatto un esperimento. Un po’ per scaramanzia, lo ammetto, ho provato a immaginare e pronosticare il risultato del GP. Per fortuna, devo dire, è andato tutto al contrario rispetto a quanto avevo pre detto. Ahimè la Ferrari non ha vinto, e rosico di brutto, però è stata una gara bella che mi ha regalato emozioni e anche qualche sorriso.
 Quindi, sotto con i voti.
 10 Il massimo dei voti va alla Mercedes.</description>
     </item>
@@ -185,7 +179,7 @@ Rabbia Sono arrabbiato, sì. Ma non perché credo ai complotti. No, la Mercedes 
       <pubDate>Wed, 29 May 2019 21:25:50 +0200</pubDate>
       
       <guid>https://protofra.me/blog/sf90-stradale/</guid>
-      <description>SF90 Stradale Dopo la F8 Tributo, arriva un’altra nuova Ferrari: la SF90 Stradale. Un&amp;rsquo;auto storica per il Cavallino, che segna l&amp;rsquo;ingresso in una nuova Era.
+      <description>SF90 Stradale Dopo la F8 Tributo,arriva un’altra nuova Ferrari: la SF90 Stradale. Un&amp;rsquo;auto storica per il Cavallino, che segna l&amp;rsquo;ingresso in una nuova Era.
 La SF90 Stradale, infatti, è la prima Ferrari ibrida prodotta in serie.
 Dalla F1 alla strada Il nome fa capire subito quanto sia stretto il legame fra pista e strada. Come per la SF90, anche per la versione Stradale possiamo parlare di power unit, anche se tecnicamente diversa rispetto a quella di F1, composta da motore termico ed elettrico.</description>
     </item>
@@ -240,7 +234,8 @@ Ho sempre cercato di evitare commenti del genere, perché, semplicemente, non sa
       
       <guid>https://protofra.me/blog/gp-bahrain/</guid>
       <description>Sembra assurdo, eppure questo detto, oggi, è più che mai adatto a spiegare il Gran Premio del Bahrain. Perché la Mercedes, che pure andava piano rispetto alla Ferrari, ha portato a casa una doppietta: la seconda nelle prime due gare.
-Grande Culo Toto Wolff ai microfoni di Sky ha spiegato così il risultato della sua squadra. Ed è vero, perché di culo ne hanno avuto parecchio. Però c’è altro.</description>
+Grande Culo Toto Wolff ai microfoni di Sky ha spiegato così il risultato della sua squadra. Ed è vero, perché di culo ne hanno avuto parecchio. Però c’è altro.
+Fortunati sia Hamilton che Bottas.</description>
     </item>
     
     <item>
@@ -250,7 +245,7 @@ Grande Culo Toto Wolff ai microfoni di Sky ha spiegato così il risultato della 
       
       <guid>https://protofra.me/blog/ferrari-dove-sei-finita/</guid>
       <description>Ferrari, dove sei finita? Un inizio amaro Pensavo e speravo di poter iniziare i miei discorsetti post gara con una vittoria della mia Rossa. E invece, come al solito davanti a tutti ci sono due Mercedes. Questi tedesconi…
-Ma andiamo con ordine. Durante i test di Barcellona la Ferrari era sembrata forte, solida e soprattutto veloce. Una macchina che tutti dicevano essere nata bene. Nonostante tutto, comunque, mantenevo il mio cauto pessimismo.</description>
+Ma andiamo con ordine. Durante i test di Barcellona la Ferrari era sembrata forte, solida e soprattutto veloce. Una macchina che tutti dicevano essere nata bene. Nonostante tutto, comunque, mantenevo il mio cauto pessimismo .</description>
     </item>
     
     <item>
@@ -261,7 +256,7 @@ Ma andiamo con ordine. Durante i test di Barcellona la Ferrari era sembrata fort
       <guid>https://protofra.me/blog/f1-adesso-si-comincia/</guid>
       <description>Eccoci qui. I test sono finiti ed esattamente come l’anno scorso non ci abbiamo capito una mazza. Più o meno.
 Cauto pessimismo Da Ferrarista memore delle cocenti delusioni degli ultimi anni, cerco di non farmi prendere dall’entusiasmo. Diciamo che, così come era successo l’anno scorso, sono cautamente pessimista.
-Mi spiego. La Ferrari, nel corso di questi 8 giorni di test è sembrata fin da subito ottima. Veloce, costante e affidabile.</description>
+Mi spiego. La Ferrari, nel corso di questi 8 giorni di test è sembrata fin da subito ottima. Veloce, costante e affidabile. Insomma, un progetto che pare nato bene, come stanno dicendo tanti.</description>
     </item>
     
     <item>

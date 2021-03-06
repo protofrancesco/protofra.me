@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Protofra.me - Il sito di Francesco Proto</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Tech on Protofra.me - Il sito di Francesco Proto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>IT-IT</language>
-    <lastBuildDate>Sat, 28 Dec 2019 19:30:35 +0100</lastBuildDate>
-    
-	<atom:link href="https://protofra.me/categories/tech/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 28 Dec 2019 19:30:35 +0100</lastBuildDate><atom:link href="https://protofra.me/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech 2019 - i miei preferiti</title>
       <link>https://protofra.me/blog/oggetti-tech-preferiti-2019/</link>
@@ -32,23 +28,13 @@ Altre, infine, hanno reso disponibili alcune funzioni che, forse, non tutti cono
     </item>
     
     <item>
-      <title>Apple mostra i muscoli con Apple Tv Plus</title>
-      <link>https://protofra.me/blog/apple-tv-plus/</link>
-      <pubDate>Wed, 11 Sep 2019 15:37:48 +0200</pubDate>
-      
-      <guid>https://protofra.me/blog/apple-tv-plus/</guid>
-      <description>Ieri si è svolto il classico evento Apple di settembre. Sono stati presentati i nuovi iPhone - ne avevo parlato qui -, il nuovo iPad e il nuovo Apple Watch. Tutto come da programma e infatti non è di questo che voglio parlare.
-Pochi minuti dopo l’inizio dell’evento, infatti, il buon Tim Cook con la sua combriccola ha svelato il prezzo di lancio di Apple TV Plus: un Netflix made in Apple, per intenderci.</description>
-    </item>
-    
-    <item>
       <title>IPhone 11 - Come Sarà?</title>
       <link>https://protofra.me/blog/iphone-11-come-sar%C3%A0/</link>
       <pubDate>Tue, 10 Sep 2019 10:24:00 +0200</pubDate>
       
       <guid>https://protofra.me/blog/iphone-11-come-sar%C3%A0/</guid>
-      <description>Oggi Apple presenterà al mondo il nuovo iPhone. Come al solito i leaks e i rumors non sono mancati e ormai siamo praticamente certi di come sarà il nuovo dispositivo di Apple. Ecco, quindi, un breve recap in attesa di vedere se tutto verrà confermato.
-iPhone 11 e iPhone 11 Pro Come lo scorso anno, Apple presenterà tre nuovi iPhone: 11, 11 Pro e 11 Pro Max, dovrebbero essere i nomi.</description>
+      <description>Oggi Apple presenterà al mondo il nuovo iPhone. Come al solito i leaks e i rumorsnon sono mancati e ormai siamo praticamente certi di come sarà il nuovo dispositivo di Apple. Ecco, quindi, un breve recap in attesa di vedere se tutto verrà confermato.
+iPhone 11 e iPhone 11 Pro Come lo scorso anno, Apple presenterà tre nuovi iPhone: 11, 11 Pro e 11 Pro Max, dovrebbero essere i nomi. Sostituti, rispettivamente di iPhone XR, iPhone XS e XS Max.</description>
     </item>
     
     <item>
@@ -58,8 +44,8 @@ iPhone 11 e iPhone 11 Pro Come lo scorso anno, Apple presenterà tre nuovi iPhon
       
       <guid>https://protofra.me/blog/kindle-instapaper/</guid>
       <description>Come ho dato nuova vita al mio Kindle sperduto In questi giorni sono al mare.
-Appena arrivato a casa, fra i teli e i costumi da bagno ho ritrovato il mio piccolo kindle.  Si tratta del modello base, il primo con touchscreen. Non ha nemmeno il display illuminato: è quello più spartano, ecco.
-Adoro leggere e all’epoca mi sembrava che ‘sto cosino avrebbe cambiato completamente il mio modo di farlo.</description>
+Appena arrivato a casa, fra i teli e i costumi da bagno ho ritrovato il mio piccolo kindle. Si tratta del modello base, il primo con touchscreen. Non ha nemmeno il display illuminato: è quello più spartano, ecco.
+Adoro leggere e all’epoca mi sembrava che ‘sto cosino avrebbe cambiato completamente il mio modo di farlo. In realtà non è successo.</description>
     </item>
     
     <item>
@@ -90,19 +76,8 @@ Google Home - Amazon Alexa Il primo passo, se volete rendere la vostra camera in
       <pubDate>Sun, 24 Mar 2019 21:57:03 +0100</pubDate>
       
       <guid>https://protofra.me/blog/fotografare-con-smartphone/</guid>
-      <description>Fotografare con lo smartphone Torniamo a parlare di tecnologia. Da quando esiste, lo smartphone ha fatto strage di un bel po&amp;rsquo; di dispositivi tecnologici, riuscendo a racchiudere tutta una serie di funzioni che prima necessitavano di oggetti a parte.
+      <description>Fotografare con lo smartphone Torniamo a parlare di tecnologia. Da quando esiste, lo smartphone ha fatto strage di un bel po&#39; di dispositivi tecnologici, riuscendo a racchiudere tutta una serie di funzioni che prima necessitavano di oggetti a parte.
 Ha eliminato il telefono che telefonava e basta. Ha fatto fuori i naviagotori a là TomTom. E poi, ha eliminato quasi del tutto le piccole macchine fotografiche: le compatte. E una delle cose che faccio di più con il mio iPhone è proprio fotografare.</description>
-    </item>
-    
-    <item>
-      <title>Nel passato dell&#39;internet</title>
-      <link>https://protofra.me/blog/come-era-internet/</link>
-      <pubDate>Wed, 13 Mar 2019 20:35:14 +0100</pubDate>
-      
-      <guid>https://protofra.me/blog/come-era-internet/</guid>
-      <description>Indietro nel tempo Ieri, mentre cercavo invano di studiare, ho finalmente risposto ad una delle tante domande inutili che ogni tanto mi pongo. Che nella mia testa fa più o meno così: ma questo sito, com&amp;rsquo;era prima? tipo, Amazon, adesso è così, ma prima?
-Pensavo di essere l&amp;rsquo;unico scemo a chiedersi queste cose. E invece, eh, come al solito internet regala sorprese.
-Infatti, non solo non sono l&amp;rsquo;unico ad essersi fatto questa domanda, ma c&amp;rsquo;è anche della gente che ha lavorato ad una risposta.</description>
     </item>
     
     <item>

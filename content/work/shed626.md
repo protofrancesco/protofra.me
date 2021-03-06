@@ -1,8 +1,21 @@
 ---
-title: "SHED626"
-date: 2021-03-03T16:05:25+01:00
+title: "SHED626 Music Hub"
+# The date the post was created
+date: 2021-03-05T21:54:51+01:00
+# The post filename
+slug: "shed-626-music-hub"
+# Post description used for seo
+description: "SHED626 Music Hub"
+# Post keywords used for seo
+keywords: [etichetta discografica, shed626, music hub, produzione musicale]
+# If true, the blog post will not be included in static build
 draft: false
-featured_image: "shed626.jpg"
+# Categorize your post with tags
+tags: [work]
+# Uses math typesetting
+math: false
+# Includes a table of contents on screens >1024px
+toc: false
 ---
 
 **[SHED626 Music Hub](https://shed626.com)** è il mio ultimo progetto; la mia **Etichetta Discografica**. Che in realtà non è solo un'Etichetta Discografica.

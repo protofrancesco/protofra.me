@@ -1,7 +1,34 @@
 baseURL = "https://protofra.me/"
 languageCode = "IT-IT"
 title = "Protofra.me - Il sito di Francesco Proto"
-theme = "uilite"
+theme = "hugo-theme-codex"
 paginate = 10
 enableRobotsTXT = true
 canonifyURLs = true
+googleanalytics = "GA4-264079467"
+[params]
+  facebook = "https://www.instagram.com/protofra/"
+  github = "https://github.com/jakewies/hugo-theme-codex"
+  instagram = "https://www.instagram.com/protofra/"
+  youtube = "https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA"
+  
+  
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    title = "Blog"
+    url = "/blog"
+
+[[menu.main]]
+  identifier = "homr"
+  name = "home"
+  title = "protofra"
+  url = "/"
+
+  [[menu.main]]
+  identifier = "work"
+  name = "work"
+  title = "Work"
+  url = "/work"
+
+  
