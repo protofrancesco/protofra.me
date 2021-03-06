@@ -12,6 +12,9 @@ googleanalytics = "GA4-264079467"
   instagram = "https://www.instagram.com/protofra/"
   youtube = "https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA"
 
+[params.colors]
+  fancy = "#ffbb1f"
+
   [[menu.main]]
     identifier = "blog"
     name = "blog"
