@@ -13,9 +13,14 @@ copyright = "© Francesco Proto {year}"
   instagram = "https://www.instagram.com/protofra/"
   youtube = "https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA"
   showPageTitleInTOC = true
+  
 
 [params.colors]
   fancy = "#ffbb1f"
+
+  [markup]
+  [markup.highlight]
+    codeFences = false
 
   [[menu.main]]
     identifier = "blog"
