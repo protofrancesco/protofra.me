@@ -11,7 +11,9 @@ googleanalytics = "GA4-264079467"
   github = "https://github.com/jakewies/hugo-theme-codex"
   instagram = "https://www.instagram.com/protofra/"
   youtube = "https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA"
-  
+
+[params.color]
+ fancy = "#ffbb1f"
   
   [[menu.main]]
     identifier = "blog"
