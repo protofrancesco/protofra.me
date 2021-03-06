@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 paginate = 10
 enableRobotsTXT = true
 canonifyURLs = true
-googleanalytics = "GA4-264079467"
+googleanalytics = "UA-134417952-4"
 [params]
   facebook = "https://www.instagram.com/protofra/"
   github = "https://github.com/jakewies/hugo-theme-codex"
