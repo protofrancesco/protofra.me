@@ -36,3 +36,4 @@ Al podcast si è poi affiancato **[SpinnIt.it](https://spinnit.it)**: il mio pri
 Grazie all'avvio di **[SHED626](https://protofra.me/work/shed626/)**, poi, SpinnIt è approdato anche su **[Youtube](https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA)**. Video interviste ed episodi registrati nei nostri studi, sì, ma anche **[live session](https://www.youtube.com/watch?v=uCHxm47oN0M)**. Dei veri e proprio **concerti** registrati e pubblicati da noi: una roba che avevo in mente fin dal momento in cui è nato il podcast. 
 
 Non solo questo, però, perché sempre a proposito di video, SpinnIt è anche approdato su **[Twitch](https://www.twitch.tv/spinnit_podcast)** con un Radio Show in cui io e Franz passiamo musica dal nostro _fidato giradischi_. 
+

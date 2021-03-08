@@ -32,7 +32,7 @@ E poi, insomma, così almeno ha motivo di esistere questo scarno e improvvisato 
 
 Quindi sappiate che _a lui piace cambiare_ come alle scale di Harry Potter, tipo. E che se qualcosa non funziona è del tutto colpa mia che mi infilo in queste situazioni senza sapere nulla di cosa sia un file .html o che javascript non è un simpatico abitante dell'isola di Java.
 
-A proposito, qualcuno sa come mettere le immagini nei post? _Ehm..._
+A proposito, qualcuno sa come aggiungere delle piccole animazioni? _Ehm..._
 
 _Distinti saluti,_
 

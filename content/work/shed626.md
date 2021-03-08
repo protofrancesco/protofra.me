@@ -15,7 +15,7 @@ tags: [work]
 # Uses math typesetting
 math: false
 # Includes a table of contents on screens >1024px
-toc: true
+toc:  true
 ---
 
 **[SHED626 Music Hub](https://shed626.com)** è il mio ultimo progetto; la mia **Etichetta Discografica**. Che in realtà non è solo un'Etichetta Discografica.
@@ -29,6 +29,7 @@ Un posto, insomma, in cui l'artista è **davvero al centro**.
 Io, in particolare, mi occupo di [Editoria.](https://shed626.com/2021/02/08/editoria-musicale-shed626/)
 
 Per saperne di più vi invito a visitare il **[sito](https://shed626.com)** e il nostro **[Instagram](https://www.instagram.com/shed626musichub/)**. Se poi avete anche roba da farmi sentire, basta una [email.](https://shed626.com/contatti/)
+
 
 
 
