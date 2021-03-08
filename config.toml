@@ -11,7 +11,7 @@ copyright = "© Francesco Proto{year}"
 # disqusShortname = ""
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+googleAnalytics = "UA-134417952-4" 
 
 # Optional params
 [params]
@@ -41,6 +41,9 @@ copyright = "© Francesco Proto{year}"
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
+
+[params.colors]
+    fancy = "#ffbb1f"
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting
