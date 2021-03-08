@@ -1,48 +1,74 @@
-baseURL = "https://protofra.me/"
-languageCode = "it-it"
+# DO NOT REMOVE THIS
+theme = "hugo-theme-codex" 
+
+# Override these settings with your own
 title = "Protofra.me - Il sito di Francesco Proto"
-theme = "hugo-theme-codex"
-enableRobotsTXT = true
-canonifyURLs = true
-googleanalytics = "UA-134417952-4"
-copyright = "© Francesco Proto {year}"
+languageCode = "it-it"
+baseURL = "https://protofra.me/"
+copyright = "© Francesco Proto{year}"
 
+# Add your Disqus shortname here.
+# disqusShortname = ""
+
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+# googleAnalytics = "" 
+
+# Optional params
 [params]
-  facebook = "https://www.instagram.com/protofra/"
-  github = "https://github.com/jakewies/hugo-theme-codex"
-  instagram = "https://www.instagram.com/protofra/"
+  # Follow the Hugo date/time format reference here: 
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "Jan 2 2006"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  Instagram = "https://instagram.com/protofra"
+  github = "https://github.com/protofrancesco"
+  email = "mailto:protofra@gmail.com"
+  # mastodon = "https://mastodon.social/@nickname"
+  # facebook = "https://facebook.com/<your handle>"
+  # gitlab = "https://gitlab.com/<your handle>"
+  # instagram = "https://instagram.com/<your handle>"
+  # linkedin = "<link to your profile>"
   youtube = "https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA"
-  email = "mailto:<protofra@gmail.com>"
-  showPageTitleInTOC = true
   
+  # Titles for your icons (shown as tooltips), and also their display order.
+  # Currently, these icons are supported: 
+  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconOrder = ["Instagram", "GitHub", "email", "youtube"]
 
-[params.colors]
-  fancy = "#ffbb1f"
+  # Metadata for Twitter cards, defaults to params.twitter
+  # twitterSite = "@<your handle>"
+  # twitterAuthor = "@<your handle>"
 
-  [markup]
-  
-   [markup.highlight]
+  # Set to true to display page title in table of contents in blog posts.
+  showPageTitleInTOC = false
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
     codeFences = false
-
-   [markup.goldmark.renderer]
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
       unsafe = true
 
-  [[menu.main]]
-    identifier = "blog"
-    name = "blog"
-    title = "Blog"
-    url = "/blog"
-
+# Controls the navigation
 [[menu.main]]
   identifier = "home"
   name = "home"
-  title = "protofra"
+  title = "Home"
   url = "/"
 
-  [[menu.main]]
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
+[[menu.main]]
   identifier = "work"
   name = "work"
   title = "Work"
   url = "/work"
-
-  

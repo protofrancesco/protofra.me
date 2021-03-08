@@ -1,20 +1,11 @@
 ---
-ttitle: "{{ replace .TranslationBaseName "-" " " | title }}"
-# The date the post was created
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-# The post filename
-slug: ""
-# Post description used for seo
-description: ""
-# Post keywords used for seo
-keywords: []
-# If true, the blog post will not be included in static build
 draft: true
-# Categorize your post with tags
+slug: ""
+description: ""
+keywords: []
 tags: []
-# Uses math typesetting
-math: false
-# Includes a table of contents on screens >1024px
-toc: false
+toc: true
 ---
 
