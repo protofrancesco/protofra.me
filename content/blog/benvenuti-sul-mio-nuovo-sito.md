@@ -16,13 +16,13 @@ Da lì è iniziata una ricerca che, a dire la verità, è durata molto poco: anc
 
 Mi è sembrato bellissimo e non ho potuto non prenderlo. Poi costava tipo 80 cents. Missione compiuta, insomma? No perché poi, una volta preso 'sto dominio, ho iniziato a pensare a come poterlo usare. E **dove** poterlo usare, soprattutto. 
 
-La prima idea è stata quella di sostituirlo - _una roba easy da fare,_ pensavo - al vecchio **[la-mansarda.com](http://la-mansarda.com)**. Inutile dire che non ci sono riuscito manco per niente. Complice questa situazione, quindi, ho raggiunto la decisione di lasciare in vita il vecchio sito e di _partire da zero_ con questo. 
+La prima idea è stata quella di sostituirlo - _una roba easy da fare,_ pensavo - al vecchio **[la-mansarda.com.](http://la-mansarda.com)** Inutile dire che non ci sono riuscito manco per niente. Complice questa situazione, quindi, ho raggiunto la decisione di lasciare in vita il vecchio sito e di _partire da zero_ con questo. 
 
-Che poi non è proprio _da zero, da zero_, a dire la verità. Perché in fondo mi piacciono sempre le solite cose. Quindi, in questo **nuovo/vecchio spazio** parlerò di: **Formula Uno, libri e tecnologia**. 
+Che poi non è proprio _da zero, da zero_, a dire la verità. Perché in fondo mi piacciono sempre le solite cose. Quindi, in questo **nuovo/vecchio spazio** parlerò di: **Formula Uno, libri e tecnologia.** 
 
 Anche perché per le altre cose, tipo la musica, esiste **[SpinnIt](https://spinnit.it)** con la sua incredibile community di malati di dischi che perde tempo a sentirmi divagare su quanto sia bello il jazz e il lo-fi degli anni '90. Senza parlare poi del lavoro - e questo è un lavoro **vero** - con **[SHED626](https://shed626.com)** di cui sono socio-fondatore ed editore. Che vuol dire? Chi lo sa, ma suona bene su LinkedIn.  
 
-Anzi, per scoprirlo rimando alla sezione **[work](https://protofra.me/work/)** creata propri per rispondere a queste e altre domande che probabilmente nessuno si è fatto tipo: _"cos'è SpinnIt? Che vuol dire Music Hub? Ma questo tipo, esattamente chi è, cosa fa?"_
+No, dai, per scoprirlo rimando alla sezione **[work](https://protofra.me/work/)** creata propri per rispondere a queste e altre domande che probabilmente nessuno si è fatto tipo: _"cos'è SpinnIt? Che vuol dire Music Hub? Ma questo tipo, esattamente chi è, cosa fa?"_
 
 E poi, insomma, così almeno ha motivo di esistere questo scarno e improvvisato _resume_ online. 
 

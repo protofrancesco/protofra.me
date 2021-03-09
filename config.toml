@@ -23,7 +23,7 @@ googleAnalytics = "UA-134417952-4"
   Instagram = "https://instagram.com/protofra"
   github = "https://github.com/protofrancesco"
   email = "mailto:protofra@gmail.com"
-  # mastodon = "https://mastodon.social/@nickname"
+  # twitter = "https://twitter.com/protofra"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
@@ -33,7 +33,7 @@ googleAnalytics = "UA-134417952-4"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Instagram", "GitHub", "email", "youtube"]
+  iconOrder = ["Instagram", "youtube", "email", "github"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
