@@ -5,7 +5,7 @@ date: 2021-03-05T21:54:51+01:00
 # The post filename
 slug: "shed-626-music-hub"
 # Post description used for seo
-description: "SHED626 Music Hub"
+description: "SHED626 Music Hub, etichetta discografica a Firenze"
 # Post keywords used for seo
 keywords: [etichetta discografica, shed626, music hub, produzione musicale]
 # If true, the blog post will not be included in static build
@@ -30,6 +30,7 @@ Io, in particolare, mi occupo di [Editoria.](https://shed626.com/2021/02/08/edit
 
 Per saperne di più vi invito a visitare il **[sito](https://shed626.com)** e il nostro **[Instagram.](https://www.instagram.com/shed626musichub/)** Se poi avete anche roba da farmi sentire, basta una [email.](https://shed626.com/contatti/)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D103271855163196%26id%3D101291878694527&width=500&show_text=false&height=498&appId" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 

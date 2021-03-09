@@ -18,6 +18,7 @@ math: false
 toc: false
 
 ---
+<iframe src="https://open.spotify.com/embed-podcast/show/0gQCl58EojARqQR8i0U5LL" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 SpinnIt nasce nel gennaio del 2020 da un'idea mia e di [@franznardi.](https://spinnit.it) L'obiettivo, fin dall'inzio, era quello di **parlare di musica**  e di farlo **a modo nostro.** In pratica, ad un certo punto, ci siamo detti: _"oh, ma perché invece di scambiarci i dischi fra di noi, non ci registriamo e vediamo se qualcuno ha voglia di ascoltarci?"_ 
 
@@ -29,11 +30,16 @@ Un'idea che ci ha permesso di finire in **classifica su Apple Podcasts,** vedere
 
 Community e riscontri che hanno permesso al _format classico_ del podcast di evolversi dando spazio alle **interviste con gli artisti.** E che interviste, lasciatemelo dire. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NWWTv-Zg1VU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Nel corso dei mesi, infatti, ho potuto parlare e conoscere artisti del calibro di **[Cristiano Godano,](https://spinnit.it/2020/11/06/cristiano-godano-intervista-spinnit-ep-23/) [Idris Ackamoor,](https://spinnit.it/2020/09/18/idris-ackamoor-intervista-spinnit-ep-20/) [Alosi,](https://spinnit.it/2020/04/07/spinnit-episodio-10-intervista-alosi/) [Gogo Penguin](https://spinnit.it/2020/06/15/gogo-penguin-intervista-spinnit-ep-16/)** e davvero tanti altri. Ognuno dei quali è stato importante per la **crescita di SpinnIt e mia personale.** 
+
 
 Al podcast si è poi affiancato **[SpinnIt.it:](https://spinnit.it)** il mio primo vero **web magazine.** Un sito gestito da me e Franz, con l'aiuto di [Martina,](https://spinnit.it/category/spinnit-magazine/the-day-i-tried-to-live/) [Giada](https://spinnit.it/category/spinnit-magazine/the-moonshiner-distillati-di-libri-e-musica/) e [Francesco](https://spinnit.it/category/spinnit-magazine/the-unknown-pleasure/) che nel corso dei mesi hanno arricchito SpinnIt con altre **interviste, approfondimenti e recensioni.** 
 
 Grazie all'avvio di **[SHED626,](https://protofra.me/work/shed626/)** poi, SpinnIt è approdato anche su **[Youtube.](https://www.youtube.com/channel/UCul6k2obsh85y2V0fA0fcmA)** Video interviste ed episodi registrati nei nostri studi, sì, ma anche **[live sessions.](https://www.youtube.com/watch?v=uCHxm47oN0M)** Dei veri e proprio **concerti** registrati e pubblicati da noi: una roba che avevo in mente fin dal momento in cui è nato il podcast. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uCHxm47oN0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Non solo questo, però, perché sempre a proposito di video, SpinnIt è anche approdato su **[Twitch](https://www.twitch.tv/spinnit_podcast)** con un Radio Show in cui io e Franz passiamo musica dal nostro _fidato giradischi_. 
 
