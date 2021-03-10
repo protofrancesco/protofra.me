@@ -7,7 +7,7 @@ keywords: [SF21, Ferrari, Formula 1, Maranello, Mondiale Formula 1, Formula Uno]
 draft: false
 tags: [formula1]
 math: false
-toc: false
+toc: true
 images: ["sf21-teaser.png"]
 ---
 

@@ -7,7 +7,7 @@ keywords: [protofra.me, protofra, francesco proto]
 draft: false
 tags: [formula1, tech, libri]
 math: false
-toc: false
+toc: true
 ---
 
 Qualche giorno fa giravo per internet e ho avuto una specie di illuminazione: _perché non comprare un dominio col mio nome?_
