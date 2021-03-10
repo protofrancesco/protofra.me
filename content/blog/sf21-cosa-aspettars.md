@@ -8,6 +8,7 @@ draft: false
 tags: [formula1]
 math: false
 toc: false
+images: ["sf21-teaser.png"]
 ---
 
 Il sito, **[questo sito,](https://protofra.me)** è venuto fuori più o meno come me l'ero immaginato. Certo, mancano alcune cose che penso - _spero_ - di poter [implementare più avanti.](https://protofra.me/blog/note-di-presentazione/) Quindi, perché non partire effettivamente a parlare di **[Formula 1?](https://protofra.me/tags/formula1/)**
