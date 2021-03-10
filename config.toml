@@ -6,6 +6,7 @@ title = "Protofra.me - Il sito di Francesco Proto"
 languageCode = "it-it"
 baseURL = "https://protofra.me/"
 copyright = "© Francesco Proto{year}"
+enableRobotsTXT = true
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
