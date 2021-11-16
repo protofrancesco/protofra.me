@@ -10,7 +10,6 @@ title = "Open The Gates // Umano Inumano Postumano"
 toc = true
 
 +++
-    <iframe src="https://open.spotify.com/embed/album/04prhtrBuWTOWit3vnweII?utm_source=generator&amp;theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 È domenica. Piove. Sì è anche ritirato Valentino Rossi. Insomma, il mood non è dei migliori. Per questo, sono qui per farvela prendere ancora peggio. No, scherzo, dai. Quello che intendevo dire, forse, è che è la situazione adatta per fermarsi un attimo a riflettere, ascoltando un po’ di musica e leggendo un libro.
 
