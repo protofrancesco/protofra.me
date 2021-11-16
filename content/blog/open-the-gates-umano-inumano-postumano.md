@@ -24,9 +24,9 @@ Fenomeni, questi ultimi, che, seppur diversi, ci hanno portato a dover fronteggi
 
 **_Open The Gates_** è un inno, un’invocazione ad _aprire quei cancelli_, un grido che si alza per allontanarci dal sempre più grande distaccamento verso _l’altro,_ quello _diverso._ A livello musicale siamo di fronte ad un disco jazz, un disco jazz di quelli _storti_ e _incazzati;_ ma anche cosmici. Basso e batteria tessono trame ritmiche incalzanti e toste; il sax, distorto, ci trasporta verso territori _extra-umani_ mentre la voce, quasi a mo di dialogo ci riconduce bruscamente a territori e sensazioni _umane_ ma anche _inumane_ per i temi trattati.
 
-Un disco jazz, insomma, ma anche punk, nei risultati: un inno alla rivoluzione, di fatto; suonato e orchestrato _divinamente._
+Un disco jazz, insomma, ma anche punk, nei risultati: **un inno alla rivoluzione**, di fatto; suonato e orchestrato _divinamente._
 
-Il perché del libro, a questo punto, credo sia più comprensibile. _“Oggi l'Umano subisce una doppia frattura: l'irruzione dell'Inumano e l'emergere del Postumano sono i due fronti di una sfida mortale”,_ per citare il sottotitolo di **_Umano Inumano Postumano._**
+Il perché del libro, a questo punto, credo sarà più comprensibile. _“Oggi l'Umano subisce una doppia frattura: l'irruzione dell'Inumano e l'emergere del Postumano sono i due fronti di una sfida mortale”,_ per citare il sottotitolo di **_Umano Inumano Postumano._**
 
 Nel corso delle 130 pagine, Revelli racconta e spiega il concetto di _Umanità,_ dalle sue origini fino al ‘900, momento in cui avviene la frattura fra _Umano_ e _Inumano_ a seguito della seconda guerra mondiale e di **Auschwitz**. Questo, purtroppo, è un momento importante per la nostra storia, perché da allora la **_Disumanità_** intesa come **_In-umanità,_** entrerà definitivamente nella nostra vita, diventando la trama anche del nostro presente nel momento in cui, ad esempio, si chiudo di porti (o non si aprono i cancelli \[_gates_\]) e si decide - consciamente - di non salvare _l’altro_, andando contro all’elemento cardine del concetto di _Umanità_.
 
