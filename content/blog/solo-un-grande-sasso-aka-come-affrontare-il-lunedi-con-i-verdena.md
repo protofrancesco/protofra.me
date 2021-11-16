@@ -23,7 +23,7 @@ Il fatto è che i Verdena sono uno di quelli che chiamo _artisti rifugio_: un po
 
 Nell’ultimo periodo ho ascoltato molto **_Endkadenz_** e **_Verdena_**. Oggi, però, avevo bisogno di altro. Che poi, in realtà, è quello con cui ho scoperto i Verdena: l’avevo un po’ snobbato ultimamente e mi sentivo in colpa. O forse non era capitata l’occasione giusta.
 
-Questo **altro** prende il nome di [**_Solo un grande sasso._**](https://open.spotify.com/album/1zrYRLvWl1R4TRcqqsPp1i?si=OTTPbjwASHmx38iUrLs9fw)
+Questo **altro** prende il nome di [_Solo un grande sasso._](https://open.spotify.com/album/1zrYRLvWl1R4TRcqqsPp1i?si=OTTPbjwASHmx38iUrLs9fw)
 
 Quindi, già che sono qui ad ascoltarlo, ve ne parlo un po’. Magari può aiutare anche voi nell’affrontare questo lunedì. O il prossimo, visto che siamo quasi a fine, per fortuna. Ndr: non è più lunedì ma vale per qualsiasi giorno _un po’ così_.
 
