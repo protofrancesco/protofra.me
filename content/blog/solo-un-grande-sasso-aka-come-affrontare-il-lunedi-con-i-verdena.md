@@ -1,7 +1,6 @@
 +++
 date = 2021-11-07T23:00:00Z
 description = "Solo un grande sasso dei Verdena, una analisi personale del disco"
-draft = true
 keywords = ["spinnit podcast", "solo un grande sasso", "solo un grande sasso verdena", "verdena"]
 math = false
 slug = "solo-un-grande-sasso-verdena"
