@@ -9,8 +9,6 @@ title = "Open The Gates // Umano Inumano Postumano"
 toc = true
 
 +++
-<iframe src="[https://open.spotify.com/embed/album/04prhtrBuWTOWit3vnweII?utm_source=generator&amp;theme=0](https://open.spotify.com/embed/album/04prhtrBuWTOWit3vnweII?utm_source=generator&amp;theme=0 "https://open.spotify.com/embed/album/04prhtrBuWTOWit3vnweII?utm_source=generator&amp;theme=0")" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
 È domenica. Piove. Sì è anche **ritirato Valentino Rossi.** Insomma, il mood non è dei migliori. Per questo, sono qui per farvela prendere ancora peggio. No, scherzo, dai. Quello che intendevo dire, forse, è che è la situazione adatta per fermarsi un attimo a riflettere, ascoltando un po’ di musica e leggendo un libro.
 
 Partiamo dai titoli, sennò non si capisce di cosa parlo: l’album è [**_Open The Gates_**](https://open.spotify.com/album/04prhtrBuWTOWit3vnweII?si=RBtoClonRHC_qgI7GevePQ) di **Irreversible Entanglements.** È uscito venerdì ma nel marasma generale lo avevo un attimo dimenticato, quindi era il caso di rimediare. Il libro, invece, è [**_Umano Inumano Postumano_**](https://amzn.to/3cc5W4m) di **Marco Revelli**, pubblicato nel mese di ottobre dello scorso anno e recuperato da me medesimo un paio di giorni fa, dopo aver passato ore a cercare qualcosa di nuovo da leggere che mi ispirasse davvero.
