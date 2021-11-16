@@ -13,7 +13,7 @@ toc = true
 
 Nota: questo articolo è stato pubblicato originariamente sul [**canale telegram**](https://t.me/spinnitpodcast) di [SpinnIt](https://spinnit.it/about-podcast-musica-spinnit/). Iscrivetevi, ne vale la pena.
 
-///
+//
 
 Oggi è lunedì. Un lunedì grigio e un po’ particolare per quel che mi riguarda; uno di quei giorni in cui hai bisogno di **certezze**. Per questo motivo, dopo aver finito di far finta di [lavorare](https://shed626.com/), ho capito che **c’era bisogno di musica**. E che c’era bisogno di Verdena.
 
