@@ -36,8 +36,8 @@ Da qui, dopo aver citato _Un ballestero_ di Hyeronymus Bosch - vera rappresentaz
 
 Sono argomenti difficili, _pesanti_ anche, ma fondamentali se vogliamo cogliere “_il tratto universale di appartenenza alla medesima natura che accomuna gli uomini e di apprezzarne la convivenza”._
 
-Vi lascio tutti i link del caso: fatemi sapere cosa ne pensate, al solito. Ormai sapete come contattarci, inutile che stia qui a ripetere, già ho detto abbastanza.
+L'articolo lo trovate, insieme a tanti altri su [**SpinnIt**](https://spinnit.it) - il \[mio\] **podcast e magazine sulla musica. Quella bella.**
 
-È domenica, lo ripeto. Non potevate aspettarvi gli ABBA.
+È domenica, lo ripeto. Non potevate aspettarvi gli **ABBA**.
 
 _Peace_!
