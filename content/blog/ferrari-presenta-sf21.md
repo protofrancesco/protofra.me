@@ -4,7 +4,7 @@ date: 2021-03-10T18:36:34+01:00
 slug: "ferrari-presenta-la-sf21"
 description: "La Scuderia Ferrari ha presentato la SF21, monoposto con la quale parteciperà al mondiale di Formula Uno 2021."
 keywords: [SF21, Ferrari, Scuderia Ferrari, Formula Uno, Mondiale Formula Uno]
-draft: false
+draft: true
 tags: [formula1]
 math: false
 toc: true
