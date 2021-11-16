@@ -4,7 +4,7 @@ date: 2021-03-09T17:59:05+01:00
 slug: "sf21-cosa-aspettarsi"
 description: "Domani sarà presentata la Ferrari SF21, la nuova monoposto della Scuderia di Maranello. Cosa dobbiamo aspettarci?"
 keywords: [SF21, Ferrari, Formula 1, Maranello, Mondiale Formula 1, Formula Uno]
-draft: false
+draft: true
 tags: [formula1]
 math: false
 toc: true
