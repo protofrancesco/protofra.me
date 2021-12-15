@@ -46,4 +46,14 @@ Che dire, sicuramente Carlito è il pilota più sottovalutato della griglia. Per
 
 ## Lando Norris
 
-Io Lando non lo capisco; e nemmeno mi sta simpatico. Però, insomma, anche lui ha fatto il suo: almeno per la prima parte del Mondiale. Dopo si è eclissato, complice anche la McLaren. 
+Io Lando non lo capisco; e nemmeno mi sta simpatico. Però, insomma, anche lui ha fatto il suo, almeno per la prima parte del Mondiale. Dopo si è eclissato, complice anche la McLaren. Non so... 
+
+<div style="width:100%;height:0;padding-bottom:103%;position:relative;"><iframe src="[https://giphy.com/embed/LPUNCIh6y2vTpUT07T](https://giphy.com/embed/LPUNCIh6y2vTpUT07T "https://giphy.com/embed/LPUNCIh6y2vTpUT07T")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/high-quality-highqualitygifs-LPUNCIh6y2vTpUT07T](https://giphy.com/gifs/high-quality-highqualitygifs-LPUNCIh6y2vTpUT07T "https://giphy.com/gifs/high-quality-highqualitygifs-LPUNCIh6y2vTpUT07T")">via GIPHY</a></p>
+
+## Charles Leclerc
+
+Charles, io ti voglio bene sempre e comunque. Anche quando la sbatti al muro che eri in Pole e potevi regalarmi una gioia. 
+
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="[https://giphy.com/embed/6s7DwURljGmAiICI8Y](https://giphy.com/embed/6s7DwURljGmAiICI8Y "https://giphy.com/embed/6s7DwURljGmAiICI8Y")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/mark-hamil-hammil-6s7DwURljGmAiICI8Y](https://giphy.com/gifs/mark-hamil-hammil-6s7DwURljGmAiICI8Y "https://giphy.com/gifs/mark-hamil-hammil-6s7DwURljGmAiICI8Y")">via GIPHY</a></p>
+
+## 
