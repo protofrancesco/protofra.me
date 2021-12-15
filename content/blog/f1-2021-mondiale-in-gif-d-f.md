@@ -1,7 +1,6 @@
 +++
 date = 2021-12-15T16:55:00Z
 description = "Il Mondiale di F1 2021 raccontato attraverso GIF. "
-draft = true
 keywords = ["f1 gif", "f1 2021", "f1"]
 math = false
 slug = "f1-2021-mondiale-gif"
@@ -131,3 +130,11 @@ Il record di papà è salvo. Ce l'abbiamo fatta, Mick.
 ## Robert Kubica
 
 _GIGAKUBICA!!!_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnUT2KIvtSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Nikita Mazepin
+
+21esimo su una griglia di 20 piloti. Eroico, incredibile ed inimitabile. Però, poteva far spendere i soldi del papi in altro, ecco. 
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="[https://giphy.com/embed/Ih0pkBvwvNpKUlnnvA](https://giphy.com/embed/Ih0pkBvwvNpKUlnnvA "https://giphy.com/embed/Ih0pkBvwvNpKUlnnvA")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/tlc-network-tlc-90-day-fiance-the-other-way-Ih0pkBvwvNpKUlnnvA](https://giphy.com/gifs/tlc-network-tlc-90-day-fiance-the-other-way-Ih0pkBvwvNpKUlnnvA "https://giphy.com/gifs/tlc-network-tlc-90-day-fiance-the-other-way-Ih0pkBvwvNpKUlnnvA")">via GIPHY</a></p>
