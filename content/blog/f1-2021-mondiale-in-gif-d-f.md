@@ -56,4 +56,10 @@ Charles, io ti voglio bene sempre e comunque. Anche quando la sbatti al muro che
 
 <div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="[https://giphy.com/embed/6s7DwURljGmAiICI8Y](https://giphy.com/embed/6s7DwURljGmAiICI8Y "https://giphy.com/embed/6s7DwURljGmAiICI8Y")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/mark-hamil-hammil-6s7DwURljGmAiICI8Y](https://giphy.com/gifs/mark-hamil-hammil-6s7DwURljGmAiICI8Y "https://giphy.com/gifs/mark-hamil-hammil-6s7DwURljGmAiICI8Y")">via GIPHY</a></p>
 
+## Daniel Ricciardo
+
+Danny, ti ho nel cuore. E, onesto: la vittoria a Monza mi ha fatto emozionare. Ho anche rosicato, sì. Però spero tu possa vincerne altre. Per il resto, _meh_. 
+
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="[https://giphy.com/embed/fDO2Nk0ImzvvW](https://giphy.com/embed/fDO2Nk0ImzvvW "https://giphy.com/embed/fDO2Nk0ImzvvW")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/fDO2Nk0ImzvvW](https://giphy.com/gifs/fDO2Nk0ImzvvW "https://giphy.com/gifs/fDO2Nk0ImzvvW")">via GIPHY</a></p>
+
 ## 
