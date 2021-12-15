@@ -62,4 +62,14 @@ Danny, ti ho nel cuore. E, onesto: la vittoria a Monza mi ha fatto emozionare. H
 
 <div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="[https://giphy.com/embed/fDO2Nk0ImzvvW](https://giphy.com/embed/fDO2Nk0ImzvvW "https://giphy.com/embed/fDO2Nk0ImzvvW")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/fDO2Nk0ImzvvW](https://giphy.com/gifs/fDO2Nk0ImzvvW "https://giphy.com/gifs/fDO2Nk0ImzvvW")">via GIPHY</a></p>
 
-## 
+## Pierre Gasly
+
+Spesso ho pensato che non avesse sotto al culo una Alpha Tauri, ma qualcosa di più vicino ad una RedBull. Bravo e sottovalutato anche lui, _spiaze_. Ma credo arriverà il suo momento di gloria. Prima o poi.
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="[https://giphy.com/embed/aQBTkny3WrKARsGJXl](https://giphy.com/embed/aQBTkny3WrKARsGJXl "https://giphy.com/embed/aQBTkny3WrKARsGJXl")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/primevideo-aQBTkny3WrKARsGJXl](https://giphy.com/gifs/primevideo-aQBTkny3WrKARsGJXl "https://giphy.com/gifs/primevideo-aQBTkny3WrKARsGJXl")">via GIPHY</a></p>
+
+## Fernando Alonso
+
+**EL PLAN.** Speriamo, Nando. Speriamo. Ti meriti 100 Mondiali. 
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="[https://giphy.com/embed/7JQD2eBmQULZwQvG5O](https://giphy.com/embed/7JQD2eBmQULZwQvG5O "https://giphy.com/embed/7JQD2eBmQULZwQvG5O")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-7JQD2eBmQULZwQvG5O](https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-7JQD2eBmQULZwQvG5O "https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-7JQD2eBmQULZwQvG5O")">via GIPHY</a></p>
