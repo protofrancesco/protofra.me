@@ -2,7 +2,7 @@
 date = 2021-12-15T16:55:00Z
 description = "Il Mondiale di F1 2021 raccontato attraverso GIF. "
 keywords = ["f1 gif", "f1 2021", "f1"]
-math = false
+math = true
 slug = "f1-2021-mondiale-gif"
 tags = ["Formula 1"]
 title = "F1 2021 // Mondiale in gif /dʒɪf/"
