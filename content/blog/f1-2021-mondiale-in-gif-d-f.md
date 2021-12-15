@@ -34,4 +34,4 @@ Quest'anno ho imparato ad amare Valtterino: è un _ganzo,_ davvero. Uno che fa i
 
 ## Sergio Perez
 
-Qui ci sarebbe una parentesi enorme da aprire, cosa che non ho voglia di fare. Sergione, tutto sommato, ha portato la pagnotta a casa e con la difesa su Ham ad Abu Dhabi ha fatto dimenticare le cagate
+Qui ci sarebbe una parentesi enorme da aprire, cosa che non ho voglia di fare. Sergione, tutto sommato, ha portato la pagnotta a casa e con la difesa su Ham ad Abu Dhabi ha fatto dimenticare le -\[cagate\] 
