@@ -92,4 +92,12 @@ Uno dei più grandi misteri del mondo. Ve lo giuro. _Bella Lance!_
 
 <div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='[https://gfycat.com/ifr/UnkemptOblongBat](https://gfycat.com/ifr/UnkemptOblongBat "https://gfycat.com/ifr/UnkemptOblongBat")' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="[https://gfycat.com/unkemptoblongbat](https://gfycat.com/unkemptoblongbat "https://gfycat.com/unkemptoblongbat")">via Gfycat</a></p>
 
-\##
+## Yuki Tsunoda
+
+Credo sia un meme vivente e gli voglio bene per questo. Poi ha fatto anche delle robine niente male. A volte. 
+
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="[https://giphy.com/embed/FyeqjRybUYVbO](https://giphy.com/embed/FyeqjRybUYVbO "https://giphy.com/embed/FyeqjRybUYVbO")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/japanese-weknowmemes-messed-FyeqjRybUYVbO](https://giphy.com/gifs/japanese-weknowmemes-messed-FyeqjRybUYVbO "https://giphy.com/gifs/japanese-weknowmemes-messed-FyeqjRybUYVbO")">via GIPHY</a></p>
+
+## George Russell
+
+L'anno prossimo con Ham. Contro Ham, si spera. Vediamo. Intanto l'ha messa a podio. Nel GP più falsato della storia dei GP di cartone, ma va bene. 
