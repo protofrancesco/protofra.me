@@ -73,3 +73,23 @@ Spesso ho pensato che non avesse sotto al culo una Alpha Tauri, ma qualcosa di p
 **EL PLAN.** Speriamo, Nando. Speriamo. Ti meriti 100 Mondiali. 
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="[https://giphy.com/embed/7JQD2eBmQULZwQvG5O](https://giphy.com/embed/7JQD2eBmQULZwQvG5O "https://giphy.com/embed/7JQD2eBmQULZwQvG5O")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-7JQD2eBmQULZwQvG5O](https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-7JQD2eBmQULZwQvG5O "https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-7JQD2eBmQULZwQvG5O")">via GIPHY</a></p>
+
+## Esteban Ocon
+
+Ha vinto un GP. Ripeto: _ha vinto un GP._ 
+
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="[https://giphy.com/embed/atfHlwAhizfxdtdw60](https://giphy.com/embed/atfHlwAhizfxdtdw60 "https://giphy.com/embed/atfHlwAhizfxdtdw60")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/theoffice-the-office-tv-customer-survey-atfHlwAhizfxdtdw60](https://giphy.com/gifs/theoffice-the-office-tv-customer-survey-atfHlwAhizfxdtdw60 "https://giphy.com/gifs/theoffice-the-office-tv-customer-survey-atfHlwAhizfxdtdw60")">via GIPHY</a></p>
+
+## Sebastian Vettel
+
+La Ferrari gli ha fatto perdere i capelli e la Aston Martin ha dato il colpo di grazia. Però ha vinto il premio per il maggior numero di sorpassi. 
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="[https://giphy.com/embed/PQ0VI3S5vqL5pwQQJX](https://giphy.com/embed/PQ0VI3S5vqL5pwQQJX "https://giphy.com/embed/PQ0VI3S5vqL5pwQQJX")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/TheSwoon-PQ0VI3S5vqL5pwQQJX](https://giphy.com/gifs/TheSwoon-PQ0VI3S5vqL5pwQQJX "https://giphy.com/gifs/TheSwoon-PQ0VI3S5vqL5pwQQJX")">via GIPHY</a></p>
+
+## Lance Stroll
+
+Uno dei più grandi misteri del mondo. Ve lo giuro. _Bella Lance!_
+
+<div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='[https://gfycat.com/ifr/UnkemptOblongBat](https://gfycat.com/ifr/UnkemptOblongBat "https://gfycat.com/ifr/UnkemptOblongBat")' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="[https://gfycat.com/unkemptoblongbat](https://gfycat.com/unkemptoblongbat "https://gfycat.com/unkemptoblongbat")">via Gfycat</a></p>
+
+\##
