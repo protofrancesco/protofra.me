@@ -121,3 +121,9 @@ L'uomo che l'ha deciso. Incredibile.
 Giovi, mannaja alla miseria, mannaja. Te lo meritavi un altro anno in F1. 
 
 <div class="tenor-gif-embed" data-postid="18008887" data-share-method="host" data-aspect-ratio="1.31687" data-width="100%"><a href="[https://tenor.com/view/brace-accesa-la-brace-accesa-braceaccesa-bari-gif-18008887](https://tenor.com/view/brace-accesa-la-brace-accesa-braceaccesa-bari-gif-18008887 "https://tenor.com/view/brace-accesa-la-brace-accesa-braceaccesa-bari-gif-18008887")">Brace Accesa GIF</a>from <a href="[https://tenor.com/search/brace-gifs](https://tenor.com/search/brace-gifs "https://tenor.com/search/brace-gifs")">Brace GIFs</a></div> <script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/embed.js "https://tenor.com/embed.js")"></script>
+
+## Mick Schumacher
+
+Il record di papà è salvo. Ce l'abbiamo fatta, Mick. 
+
+<div class="tenor-gif-embed" data-postid="22308697" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="[https://tenor.com/view/schumi-schumacher-gif-22308697](https://tenor.com/view/schumi-schumacher-gif-22308697 "https://tenor.com/view/schumi-schumacher-gif-22308697")">Schumi Schumacher GIF</a>from <a href="[https://tenor.com/search/schumi-gifs](https://tenor.com/search/schumi-gifs "https://tenor.com/search/schumi-gifs")">Schumi GIFs</a></div> <script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/embed.js "https://tenor.com/embed.js")"></script>
