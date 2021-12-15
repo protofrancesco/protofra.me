@@ -100,4 +100,10 @@ Credo sia un meme vivente e gli voglio bene per questo. Poi ha fatto anche delle
 
 ## George Russell
 
-L'anno prossimo con Ham. Contro Ham, si spera. Vediamo. Intanto l'ha messa a podio. Nel GP più falsato della storia dei GP di cartone, ma va bene. 
+L'anno prossimo con Ham. Contro Ham, si spera. Vediamo. Intanto l'ha messa a podio. Nel GP più falsato della storia dei GP di cartone, ma va bene. Il Chalanoglu della F1. Speriamo di no, via. 
+
+<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="[https://giphy.com/embed/gjoFCIuDjKBoAKxxMS](https://giphy.com/embed/gjoFCIuDjKBoAKxxMS "https://giphy.com/embed/gjoFCIuDjKBoAKxxMS")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/inter-milan-forza-coppa-italia-quarter-finals-gjoFCIuDjKBoAKxxMS](https://giphy.com/gifs/inter-milan-forza-coppa-italia-quarter-finals-gjoFCIuDjKBoAKxxMS "https://giphy.com/gifs/inter-milan-forza-coppa-italia-quarter-finals-gjoFCIuDjKBoAKxxMS")">via GIPHY</a></p>
+
+## Kimi Raikkonen
+
+Kimi, mio Kimi. Mancherai tanto e forse non ce ne rendiamo ancora conto. 
