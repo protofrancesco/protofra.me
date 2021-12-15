@@ -107,3 +107,17 @@ L'anno prossimo con Ham. Contro Ham, si spera. Vediamo. Intanto l'ha messa a pod
 ## Kimi Raikkonen
 
 Kimi, mio Kimi. Mancherai tanto e forse non ce ne rendiamo ancora conto. 
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="[https://giphy.com/embed/26xBFT1F9BgskEvTO](https://giphy.com/embed/26xBFT1F9BgskEvTO "https://giphy.com/embed/26xBFT1F9BgskEvTO")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/jerseydemic-26xBFT1F9BgskEvTO](https://giphy.com/gifs/jerseydemic-26xBFT1F9BgskEvTO "https://giphy.com/gifs/jerseydemic-26xBFT1F9BgskEvTO")">via GIPHY</a></p>
+
+## Nicholas Latifi
+
+L'uomo che l'ha deciso. Incredibile. 
+
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="[https://giphy.com/embed/FRhNm8ls8ohtS](https://giphy.com/embed/FRhNm8ls8ohtS "https://giphy.com/embed/FRhNm8ls8ohtS")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/f1-timo-glock-happy-birthday-alexane-FRhNm8ls8ohtS](https://giphy.com/gifs/f1-timo-glock-happy-birthday-alexane-FRhNm8ls8ohtS "https://giphy.com/gifs/f1-timo-glock-happy-birthday-alexane-FRhNm8ls8ohtS")">via GIPHY</a></p>
+
+## Antonio Giovinazzi
+
+Giovi, mannaja alla miseria, mannaja. Te lo meritavi un altro anno in F1. 
+
+<div class="tenor-gif-embed" data-postid="18008887" data-share-method="host" data-aspect-ratio="1.31687" data-width="100%"><a href="[https://tenor.com/view/brace-accesa-la-brace-accesa-braceaccesa-bari-gif-18008887](https://tenor.com/view/brace-accesa-la-brace-accesa-braceaccesa-bari-gif-18008887 "https://tenor.com/view/brace-accesa-la-brace-accesa-braceaccesa-bari-gif-18008887")">Brace Accesa GIF</a>from <a href="[https://tenor.com/search/brace-gifs](https://tenor.com/search/brace-gifs "https://tenor.com/search/brace-gifs")">Brace GIFs</a></div> <script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/embed.js "https://tenor.com/embed.js")"></script>
