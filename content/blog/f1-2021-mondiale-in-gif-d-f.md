@@ -22,4 +22,16 @@ Il buon Max, alla fine - ma proprio letteralmente alla fine! - è riuscito a vin
 
 ## Lewis Hamilton
 
-_Chi di Glock ferisce, di Latifi perisce._ Alla fine, e lo dico con una punta - piccolina, promesso - di felicità anche Lewis ha perso un Mondiale all'ultimo giro e con un po' di sfiga.  
+_Chi di Glock ferisce, di Latifi perisce._ Alla fine, e lo dico con una punta - piccolina, lo giuro - di felicità anche Lewis ha perso un Mondiale all'ultimo giro e con un po' di sfiga. Ha corso benissimo, nulla da dire. Però, insomma: capita anche ai migliori. E il record di Schumi è salvo, almeno per ora. 
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="[https://giphy.com/embed/3faT4z5qdm19t86ebI](https://giphy.com/embed/3faT4z5qdm19t86ebI "https://giphy.com/embed/3faT4z5qdm19t86ebI")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-3faT4z5qdm19t86ebI](https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-3faT4z5qdm19t86ebI "https://giphy.com/gifs/f1-formula-1-motorsport-fernando-alonso-3faT4z5qdm19t86ebI")">via GIPHY</a></p>
+
+## Valtteri Bottas
+
+Quest'anno ho imparato ad amare Valtterino: è un _ganzo,_ davvero. Uno che fa il suo, in fin dei conti. Un onesto lavoratore che non vuole avere cazzi, diciamo. E poi, anche a sto giro, è arrivato fra i primi 3. 
+
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="[https://giphy.com/embed/3orieK2IO0sQ0Hhse4](https://giphy.com/embed/3orieK2IO0sQ0Hhse4 "https://giphy.com/embed/3orieK2IO0sQ0Hhse4")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/season-5-the-simpsons-5x1-3orieK2IO0sQ0Hhse4](https://giphy.com/gifs/season-5-the-simpsons-5x1-3orieK2IO0sQ0Hhse4 "https://giphy.com/gifs/season-5-the-simpsons-5x1-3orieK2IO0sQ0Hhse4")">via GIPHY</a></p>
+
+## Sergio Perez
+
+Qui ci sarebbe una parentesi enorme da aprire, cosa che non ho voglia di fare. Sergione, tutto sommato, ha portato la pagnotta a casa e con la difesa su Ham ad Abu Dhabi ha fatto dimenticare le cagate
