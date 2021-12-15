@@ -34,4 +34,16 @@ Quest'anno ho imparato ad amare Valtterino: è un _ganzo,_ davvero. Uno che fa i
 
 ## Sergio Perez
 
-Qui ci sarebbe una parentesi enorme da aprire, cosa che non ho voglia di fare. Sergione, tutto sommato, ha portato la pagnotta a casa e con la difesa su Ham ad Abu Dhabi ha fatto dimenticare le -\[cagate\] 
+Qui ci sarebbe una parentesi enorme da aprire, cosa che non ho voglia di fare. Sergione, tutto sommato, ha portato la pagnotta a casa e con la difesa su Ham ad Abu Dhabi ha fatto dimenticare le c̵a̵g̵a̵t̵e̵ fatte nel corso dell'anno. 
+
+<div style="width:100%;height:0;padding-bottom:112%;position:relative;"><iframe src="[https://giphy.com/embed/Z1YgblzxV7GhV7AGvF](https://giphy.com/embed/Z1YgblzxV7GhV7AGvF "https://giphy.com/embed/Z1YgblzxV7GhV7AGvF")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/TikiIndia-hello-hi-hey-Z1YgblzxV7GhV7AGvF](https://giphy.com/gifs/TikiIndia-hello-hi-hey-Z1YgblzxV7GhV7AGvF "https://giphy.com/gifs/TikiIndia-hello-hi-hey-Z1YgblzxV7GhV7AGvF")">via GIPHY</a></p>
+
+## Carlos Sainz
+
+Che dire, sicuramente Carlito è il pilota più sottovalutato della griglia. Però lui, _alla zitta,_ s'è piazzato in quarta posizione. Mica male. 
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="[https://giphy.com/embed/WpOvpi1waVrXsIKhTA](https://giphy.com/embed/WpOvpi1waVrXsIKhTA "https://giphy.com/embed/WpOvpi1waVrXsIKhTA")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/chilipeppers-WpOvpi1waVrXsIKhTA](https://giphy.com/gifs/chilipeppers-WpOvpi1waVrXsIKhTA "https://giphy.com/gifs/chilipeppers-WpOvpi1waVrXsIKhTA")">via GIPHY</a></p>
+
+## Lando Norris
+
+Io Lando non lo capisco; e nemmeno mi sta simpatico. Però, insomma, anche lui ha fatto il suo: almeno per la prima parte del Mondiale. Dopo si è eclissato, complice anche la McLaren. 
