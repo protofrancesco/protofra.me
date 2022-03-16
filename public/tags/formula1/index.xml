@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>formula1 on Protofra.me - Il sito di Francesco Proto</title>
+    <title>formula1 on protofra.me - di @protofra</title>
     <link>https://protofra.me/tags/formula1/</link>
-    <description>Recent content in formula1 on Protofra.me - Il sito di Francesco Proto</description>
+    <description>Recent content in formula1 on protofra.me - di @protofra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>© Francesco Proto{year}</copyright>
-    <lastBuildDate>Tue, 09 Mar 2021 17:59:05 +0100</lastBuildDate><atom:link href="https://protofra.me/tags/formula1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SF21 - cosa aspettarsi dalla nuova Ferrari</title>
-      <link>https://protofra.me/blog/sf21-cosa-aspettarsi/</link>
-      <pubDate>Tue, 09 Mar 2021 17:59:05 +0100</pubDate>
-      
-      <guid>https://protofra.me/blog/sf21-cosa-aspettarsi/</guid>
-      <description>Il sito, questo sito,  è venuto fuori più o meno come me l&amp;rsquo;ero immaginato. Certo, mancano alcune cose che penso - spero - di poter implementare più avanti. Quindi, perché non partire effettivamente a parlare di Formula 1? 
-Domani in Bahrein verrà presentata la SF21, monoposto con cui la Ferrari darà la caccia al Mondiale di F1. L&amp;rsquo;anno scorso, nei riguardi della SF1000,  parlavo di cauto pessimismo. Adesso, visto com&amp;rsquo;è andato il Mondiale, posso dire che forse non avevo tutti i torti.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 05 Mar 2021 23:47:33 +0100</lastBuildDate><atom:link href="https://protofra.me/tags/formula1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ho fatto un nuovo sito perché non avevo niente da fare</title>
       <link>https://protofra.me/blog/note-di-presentazione/</link>

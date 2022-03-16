@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>libri on Protofra.me - Il sito di Francesco Proto</title>
+    <title>libri on protofra.me - di @protofra</title>
     <link>https://protofra.me/tags/libri/</link>
-    <description>Recent content in libri on Protofra.me - Il sito di Francesco Proto</description>
+    <description>Recent content in libri on protofra.me - di @protofra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>© Francesco Proto{year}</copyright>
-    <lastBuildDate>Fri, 05 Mar 2021 23:47:33 +0100</lastBuildDate><atom:link href="https://protofra.me/tags/libri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://protofra.me/tags/libri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open The Gates // Umano Inumano Postumano</title>
+      <link>https://protofra.me/blog/umano-inumano-open-gates/</link>
+      <pubDate>Sat, 13 Nov 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://protofra.me/blog/umano-inumano-open-gates/</guid>
+      <description>È domenica. Piove. Sì è anche ritirato Valentino Rossi. Insomma, il mood non è dei migliori. Per questo, sono qui per farvela prendere ancora peggio. No, scherzo, dai. Quello che intendevo dire, forse, è che è la situazione adatta per fermarsi un attimo a riflettere, ascoltando un po’ di musica e leggendo un libro.
+Partiamo dai titoli, sennò non si capisce di cosa parlo: l’album è Open The Gates di Irreversible Entanglements.</description>
+    </item>
+    
     <item>
       <title>Ho fatto un nuovo sito perché non avevo niente da fare</title>
       <link>https://protofra.me/blog/note-di-presentazione/</link>

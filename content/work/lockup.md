@@ -1,9 +1,9 @@
 ---
 title: "LockUp"
 # The date the post was created
-date: 2022-03-16T21:54:51+01:00
+date: 2022-03-15T21:54:51+01:00
 # The post filename
-slug: "lockup-podcast"
+slug: "lock-up"
 # Post description used for seo
 description: "Podcast sulla Formula 1 LockUp"
 # Post keywords used for seo

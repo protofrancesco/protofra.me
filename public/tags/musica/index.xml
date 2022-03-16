@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on protofra.me - di @protofra</title>
-    <link>https://protofra.me/blog/</link>
-    <description>Recent content in Blogs on protofra.me - di @protofra</description>
+    <title>musica on protofra.me - di @protofra</title>
+    <link>https://protofra.me/tags/musica/</link>
+    <description>Recent content in musica on protofra.me - di @protofra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>© Francesco Proto{year}</copyright>
-    <lastBuildDate>Wed, 15 Dec 2021 16:55:00 +0000</lastBuildDate><atom:link href="https://protofra.me/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>F1 2021 // Mondiale in gif /dʒɪf/</title>
-      <link>https://protofra.me/blog/f1-2021-mondiale-gif/</link>
-      <pubDate>Wed, 15 Dec 2021 16:55:00 +0000</pubDate>
-      
-      <guid>https://protofra.me/blog/f1-2021-mondiale-gif/</guid>
-      <description>Qualche tempo fa, mentre ero preso a far finta di studiare, avevo raccontato il Mondiale di F1 attraverso l&amp;rsquo;utilizzo di GIF. Una roba un po&#39; nerd, me ne rendo conto, ma che mi aveva divertito. I più coraggiosi lo trovano qui. Ecco, ora che anche questo mondiale è passato, e io mi sento in vena di revival, ho deciso di riprovarci. Anzi, di riproporlo: anche perché sto progettando cose per il prossimo Mondiale; sperando in una Ferrari competitiva.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 15 Nov 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://protofra.me/tags/musica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Songs to Sing When I&#39;m Lonely // Note (ri)trovate</title>
       <link>https://protofra.me/blog/note-sparse-sulla-musica/</link>
@@ -57,17 +48,6 @@ Oggi è lunedì. Un lunedì grigio e un po’ particolare per quel che mi riguar
       <guid>https://protofra.me/blog/grazie-maestro-battiato/</guid>
       <description>Disclaimer: quello che state per leggere è poco più di una pagina di diario; parole che ho scritto confidando nel potere catartico della scrittura e della musica; uno stream of consciousness molto stream e poco conscious.
 Ci sono alcune cose che ti restano impresse nella mente. Ricordi che, nonostante risalgano a molti anni fa, rimangono lì: si fissano e smetti di chiederti quando e come ci sono arrivate in quell’angolino della tua memoria.</description>
-    </item>
-    
-    <item>
-      <title>Ho fatto un nuovo sito perché non avevo niente da fare</title>
-      <link>https://protofra.me/blog/note-di-presentazione/</link>
-      <pubDate>Fri, 05 Mar 2021 23:47:33 +0100</pubDate>
-      
-      <guid>https://protofra.me/blog/note-di-presentazione/</guid>
-      <description>Qualche giorno fa giravo per internet e ho avuto una specie di illuminazione: perché non comprare un dominio col mio nome?
-Da lì è iniziata una ricerca che, a dire la verità, è durata molto poco: anche perché chi dovrebbe comprare un dominio a nome mio, se non io? Una ricerca, dicevo, che mi ha portato a protofra.me 
-Mi è sembrato bellissimo e non ho potuto non prenderlo. Poi costava tipo 80 cents.</description>
     </item>
     
   </channel>
