@@ -5,7 +5,7 @@ keywords = ["spinnit podcast", "solo un grande sasso", "solo un grande sasso ver
 math = false
 slug = "solo-un-grande-sasso-verdena"
 tags = ["musica"]
-title = "Solo un grande sasso, AKA come affrontare il lunedì con i Verdena"
+title = "Solo un grande sasso // Come affrontare il lunedì con i Verdena"
 toc = true
 
 +++
