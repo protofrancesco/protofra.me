@@ -1,5 +1,5 @@
 +++
-date = 2022-07-17T00:55:00Z
+date = 2022-08-09T00:55:00Z
 description = "Parlo di me e di musica: che egocentrico del cazzo!"
 keywords = ["spinnit podcast", "paolo nutini", "metallica firenze rocks", "michael kiwanuka firenze"]
 math = false
