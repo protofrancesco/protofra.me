@@ -10,13 +10,16 @@ toc = true
 draft = false
 +++
 
+_(**DISCLAIMER:** queste cose le ho scritte qualche settimana fa. Ho deciso di condividerle solo oggi perché, boh, mi sentivo ispirato; quindi, insomma, non è tutto aggiornato e _sul pezzo._ Bella!)_
+
+
 Questa è una di quelle volte in cui senti di avere la perfetta connessione fra testa e mani. Una di quelle volte in cui senti che quello che vuoi esprimere _è già praticamente scritto._ Poi, in realtà, prendi il computer e ti rendi conto che tutto quello che scrivi è una merda; e quindi via di _note su note,_ che tanto poi _‘ste cose non le legge nessuno._ 
 
 Ad ogni modo, io davvero la sentivo questa connessione fra dita e cervello, fra pensieri e parole - ciao, Lucio, tvb. La realtà, però, temo sia ben diversa quindi vi chiedo scusa cari lettori; sempre che sia questa la _versione_ che condividerò. Anzi, sempre che condividerò qualcosa. 
 Mi sono già perso. Di che cazzo volevo parlare? Sì! Ce l’ho! È una figata eh, _ve lo assicuro quindi tenetevi forte._ 
 
 Vi parlo di me e di musica. _Sic transit gloria Spinnit._ 
-_“Sei un egocentrico del cazzo”_ direbbe qualcuno che conosco; e come dargli torto. Ma d’altronde che volete, siamo nell’epoca della spettacolarizzazione della vita quotidiana, dove tutti possono raccontare cosa fanno, dove chiunque sente la necessità di dire ciò che pensa. E chi sono io, per esimermi? Poi, insomma, ho già detto che sono cose ganze quelle che sto per dire; almeno nella mia testa. 
+_“Sei un egocentrico del cazzo”_ direbbe qualcuno che conosco; e come dargli torto. Ma d’altronde che volete, siamo nell’epoca della spettacolarizzazione della vita quotidiana, dove tutti possono raccontare cosa fanno, dove chiunque sente la necessità di dire ciò che pensa. E chi sono io per esimermi? Poi, insomma, ho già detto che sono cose ganze quelle che sto per dire; almeno nella mia testa. 
 
 Continuo a perdermi. Pausa. Aggiungo i due _slash,_ così mi sento alternativo e do fine a questo delirio iniziale. 
 
