@@ -7,7 +7,7 @@ slug = "note-ritrovate"
 tags = ["musica"]
 title = "40 gradi // Note sparse"
 toc = true
-draft = true
+draft = false
 +++
 
 Questa è una di quelle volte in cui senti di avere la perfetta connessione fra testa e mani. Una di quelle volte in cui senti che quello che vuoi esprimere _è già praticamente scritto._ Poi, in realtà, prendi il computer e ti rendi conto che tutto quello che scrivi è una merda; e quindi via di _note su note,_ che tanto poi _‘ste cose non le legge nessuno._ 
