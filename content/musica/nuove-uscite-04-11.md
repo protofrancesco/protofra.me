@@ -16,7 +16,7 @@ _Mi consigli un po’ di musica?_ La domanda mi devasta. Quando succede mi sembr
 La verità, chiaramente, è un’altra e di musica da consigliare ce n’é tantissima. 
 Ho fatto un podcast, [SpinnIt](https://spinnit.it), proprio con questo obiettivo. 
 
-_Allora come mai questa roba qui?_ Perché SpinnIt è morto. No, così è un po’ tragico, riformulo. Il punto è che, in questo momento della mia vita, **voglio scrivere**. Non so perché e per come, voglio solo scrivere e questo mi sembrava un buon modo per farlo, facendo anche qualcosa di utile. 
+_Allora come mai questa roba qui?_ Perché SpinnIt è morto. No, così è un po’ tragico, riformulo. Il punto è che, in questo momento della mia vita, **voglio scrivere**. Non so perché e per come, voglio solo scrivere e questo mi sembrava un buon modo per farlo.
 
 Cercherò di restare sulle **nuove uscite**, anche per non creare un conflitto di interessi con me stesso e il suddetto podcast. 
 
