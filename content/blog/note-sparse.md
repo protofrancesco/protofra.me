@@ -1,5 +1,5 @@
 +++
-date = 2022-08-09T00:55:00Z
+date = 2022-09-05T00:55:00Z
 description = "Parlo di me e di musica: che egocentrico del cazzo!"
 keywords = ["spinnit podcast", "paolo nutini", "metallica firenze rocks", "michael kiwanuka firenze"]
 math = false
@@ -7,10 +7,10 @@ slug = "note-ritrovate"
 tags = ["musica"]
 title = "40 gradi // Note sparse"
 toc = true
-draft = false
+draft = true
 +++
 
-_(**DISCLAIMER:** queste cose le ho scritte qualche settimana fa. Ho deciso di condividerle solo oggi perché, boh, mi sentivo ispirato; quindi, insomma, non è tutto aggiornato e _sul pezzo._ Bella!)_
+_(**DISCLAIMER:** queste cose le ho scritte **mesi** fa. Ho deciso di condividerle solo oggi perché, boh, mi sentivo ispirato e perché il primo settembre ho rivisto i **miei** Marlene Kuntz; quindi, insomma, non è tutto aggiornato e _sul pezzo._ Bella!)_
 
 
 Questa è una di quelle volte in cui senti di avere la perfetta connessione fra testa e mani. Una di quelle volte in cui senti che quello che vuoi esprimere _è già praticamente scritto._ Poi, in realtà, prendi il computer e ti rendi conto che tutto quello che scrivi è una merda; e quindi via di _note su note,_ che tanto poi _‘ste cose non le legge nessuno._ 
@@ -52,6 +52,18 @@ Il giorno dopo Nutini. Uno che, ad essere onesto, prima di questi due anni non a
 E poi ci sono loro, quelli di cui non sapevo di avere ancora bisogno, ma che in realtà hanno riacceso la voglia di suonare la chitarra: i Metallica. Ecco, loro non li ascoltavo davvero da secoli, devo essere sincero, e sono qui solo perché hanno dato il là a questa serie di concerti estremamente significativi per me. Proprio loro che, 7mila anni fa, mi hanno fatto prendere in mano, per la prima volta seriamente, una chitarra. E ancora loro che, **adesso,** mi portano a _ri_-prenderla in mano quando ho due minuti liberi. 
 
 //
+
+> _Un anno di /
+Narcisi e solitudine / 
+Specchiandomi /
+Nella mia finitudine_
+
+Ritorno su questi _deliri_ d'egocentrismo per aggiungere alla lista dei concerti _ri_-trovati i Marlene Kuntz. I **miei** Marlene, come dicevo nel disclaimer. 
+
+
+
+//
+
 
 Ci sono momenti in cui le cose cambiano. Le persone cambiano. Ed è normale, è sano. Anzi, forse è anche necessario. 
 
