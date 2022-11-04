@@ -77,3 +77,9 @@ googleAnalytics = "UA-134417952-4"
   name = "work"
   title = "Work"
   url = "/work"
+
+[[menu.main]]
+  identifier = "musica"
+  name = "musica"
+  title = "Musica"
+  url = "/musica"
