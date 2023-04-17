@@ -11,7 +11,7 @@ keywords: [podcast, podcast musica, spinnit]
 # If true, the blog post will not be included in static build
 draft: false
 # Categorize your post with tags
-tags: [work]
+tags: [podcast]
 # Uses math typesetting
 math: false
 # Includes a table of contents on screens >1024px
@@ -41,5 +41,5 @@ Grazie all'avvio di **[SHED626,](https://protofra.me/work/shed626/)** poi, Spinn
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uCHxm47oN0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Non solo questo, però, perché sempre a proposito di video, SpinnIt è anche approdato su **[Twitch](https://www.twitch.tv/spinnit_podcast)** con un Radio Show in cui io e Franz passiamo musica dal nostro _fidato giradischi_. 
+Dal 2023 SpinnIt è anche una [newsletter su SubStack](https://spinnit.substack.com), con cadenza mensile: _nuova musica, una volta al mese._ 
 

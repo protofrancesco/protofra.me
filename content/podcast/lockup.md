@@ -11,18 +11,16 @@ keywords: [podcast formula 1, podcast, formula1, lockup, protofra]
 # If true, the blog post will not be included in static build
 draft: false
 # Categorize your post with tags
-tags: [work]
+tags: [podcast]
 # Uses math typesetting
 math: false
 # Includes a table of contents on screens >1024px
 toc:  true
 ---
 
-**[LockUp](https://lock-up.it)** è il mio ultimo progetto: un podcast sulla Formula 1, nato al solo scopo di intervistare Fernando Alonso. 
+**[LockUp](https://lock-up.it)** è un podcast sulla Formula 1 _nato per intervistare Fernando Alonso._ 
 
-Nel corso degli episodi andrò a commentare i Gran Premi di quello che posso definire, senza nessun problema, il mio sport preferito. 
-
-È un progetto che ho in cantiere da tanto tempo e che, finalmente, sono riuscito a mettere in piedi. Sperando, magari, di poter commentare una Ferrari veloce e - chissà - vincente. 
+Commento i Gran Premi con tanto livore e poca cognizione di causa. Sperando, un giorno, di raccontare una nuova vittoria Mondiale della Ferrari. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0VXx7RqIFLaoMIUJxIr8mV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
