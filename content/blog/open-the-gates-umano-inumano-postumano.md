@@ -7,7 +7,7 @@ slug = "umano-inumano-open-gates"
 tags = ["musica", "libri"]
 title = "Open The Gates // Umano Inumano Postumano"
 toc = true
-
+draft = true
 +++
 È domenica. Piove. Sì è anche **ritirato Valentino Rossi.** Insomma, il mood non è dei migliori. Per questo, sono qui per farvela prendere ancora peggio. No, scherzo, dai. Quello che intendevo dire, forse, è che è la situazione adatta per fermarsi un attimo a riflettere, ascoltando un po’ di musica e leggendo un libro.
 

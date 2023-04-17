@@ -7,6 +7,7 @@ slug = "solo-un-grande-sasso-verdena"
 tags = ["musica"]
 title = "Solo un grande sasso // Come affrontare il lunedì con i Verdena"
 toc = true
+draft = true
 
 +++
 **DISCLAIMER**: questa è una di quelle volte in cui vi parlo di musica, ma lo faccio parlando un po’ di me. Non aspettatevi cose troppo tecniche e, allo stesso tempo, preparatevi a pipponi non richiesti. Sono [@protofra](https://www.instagram.com/protofra/?hl=it), per chi non lo sapesse.

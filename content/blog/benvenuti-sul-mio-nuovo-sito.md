@@ -4,7 +4,7 @@ date: 2021-03-05T23:47:33+01:00
 slug: "note-di-presentazione"
 description: "protofra.me, il sito di Francesco Proto"
 keywords: [protofra.me, protofra, francesco proto]
-draft: false
+draft: true
 tags: [formula1, tech, libri]
 math: false
 toc: true

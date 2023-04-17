@@ -7,6 +7,7 @@ slug = "note-sparse-sulla-musica"
 tags = ["musica"]
 title = "Songs to Sing When I'm Lonely // Note (ri)trovate"
 toc = true
+draft = true
 
 +++
 **Disclaimer**: Ho ritrovato questo flusso di coscienza poco cosciente, uno dei tanti, rovistando fra le note del Mac. Non è finito, almeno credo, visto che è passato tanto tempo e non sono lo stesso me di quel momento. Mi sembrava bello, comunque, condividerlo. Chissà come pensavo di proseguirlo… e chissà perché non l’ho mai pubblicato.

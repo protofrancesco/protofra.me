@@ -7,6 +7,7 @@ slug = "grazie-maestro-battiato"
 tags = ["musica"]
 title = "Grazie Maestro"
 toc = true
+draft = true
 
 +++
 **Disclaimer**: _quello che state per leggere è poco più di una pagina di diario; parole che ho scritto confidando nel potere catartico della scrittura e della musica; uno stream of consciousness molto stream e poco conscious._

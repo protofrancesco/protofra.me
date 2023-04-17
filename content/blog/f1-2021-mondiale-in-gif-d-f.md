@@ -7,6 +7,7 @@ slug = "f1-2021-mondiale-gif"
 tags = ["Formula 1"]
 title = "F1 2021 // Mondiale in gif /dʒɪf/"
 toc = true
+draft = true
 
 +++
 Qualche tempo fa, mentre ero preso a far finta di studiare, avevo raccontato il Mondiale di F1 attraverso l'utilizzo di GIF. Una roba un po' _nerd_, me ne rendo conto, ma che mi aveva divertito. I più coraggiosi lo trovano [qui.](https://la-mansarda.com/blog/f1-2019-mondiale-in-gifs/)
