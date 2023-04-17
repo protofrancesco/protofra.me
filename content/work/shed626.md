@@ -18,19 +18,11 @@ math: false
 toc:  true
 ---
 
-**[SHED626 Music Hub](https://shed626.com)** è il mio ultimo progetto; la mia **Etichetta Discografica.** Che in realtà non è solo un'Etichetta Discografica.
+**[SHED626 Music Hub](https://shed626.com)** è il mio **studio di produzione audio.** Che in realtà è anche una etichetta discografica indipendente e uno studio di Graphic Design.
 
-Il nome, direi, è abbastanza evocativo. L'idea dietro **SHED626,** infatti, è di raccogliere in un unico luogo tutti i servizi necessari ad un artista per trasformare il suo progetto in realtà. 
+Io, in particolare, mi occupo di tenere i conti, produrre podcast e gestire la parte editoriale. 
 
-A partire dalla **produzione musicale,** fino all'**ufficio stampa,** passando per il **management,** il **social media management,** il **graphic design** e l'**editoria.**
-
-Un posto, insomma, in cui l'artista è **davvero al centro.** 
-
-Io, in particolare, mi occupo di [Editoria.](https://shed626.com/2021/02/08/editoria-musicale-shed626/)
-
-Per saperne di più vi invito a visitare il **[sito](https://shed626.com)** e il nostro **[Instagram.](https://www.instagram.com/shed626musichub/)** Se poi avete anche roba da farmi sentire, basta una [email.](https://shed626.com/contatti/)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D103271855163196%26id%3D101291878694527&width=500&show_text=false&height=498&appId" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+Qui c'è **[Instagram.](https://www.instagram.com/shed626musichub/)** 
 
 
 
