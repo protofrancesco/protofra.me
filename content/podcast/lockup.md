@@ -9,7 +9,7 @@ description: "Podcast sulla Formula 1 LockUp"
 # Post keywords used for seo
 keywords: [podcast formula 1, podcast, formula1, lockup, protofra]
 # If true, the blog post will not be included in static build
-draft: true
+draft: false
 # Categorize your post with tags
 tags: [podcast]
 # Uses math typesetting

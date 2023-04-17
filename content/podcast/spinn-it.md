@@ -9,9 +9,9 @@ description: "Spinnit è un podcast sulla musica"
 # Post keywords used for seo
 keywords: [podcast, podcast musica, spinnit]
 # If true, the blog post will not be included in static build
-draft: true
+draft: false
 # Categorize your post with tags
-tags: [work]
+tags: [podcast]
 # Uses math typesetting
 math: false
 # Includes a table of contents on screens >1024px
