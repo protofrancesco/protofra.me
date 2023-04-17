@@ -72,8 +72,3 @@ googleAnalytics = "UA-134417952-4"
   title = "Work"
   url = "/work"
 
-[[menu.main]]
-  identifier = "podcast"
-  name = "podcast"
-  title = "Podcast"
-  url = "/podcast"
