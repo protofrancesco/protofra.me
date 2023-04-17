@@ -11,12 +11,15 @@ keywords: [podcast formula 1, podcast, formula1, lockup, protofra]
 # If true, the blog post will not be included in static build
 draft: false
 # Categorize your post with tags
-tags: [podcast]
+tags: [work]
 # Uses math typesetting
 math: false
 # Includes a table of contents on screens >1024px
 toc:  true
 ---
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0VXx7RqIFLaoMIUJxIr8mV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 
 **[LockUp](https://lock-up.it)** è un podcast sulla Formula 1 _nato per intervistare Fernando Alonso._ 
 
