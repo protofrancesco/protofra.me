@@ -9,7 +9,7 @@ description: "Techonair recensioni e lavori che ho svolto"
 # Post keywords used for seo
 keywords: [tech, smartphone, techonair, recensioni, recensioni smartphone]
 # If true, the blog post will not be included in static build
-draft: false
+draft: true
 # Categorize your post with tags
 tags: [work]
 # Uses math typesetting
